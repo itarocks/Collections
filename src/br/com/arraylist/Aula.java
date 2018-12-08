@@ -1,12 +1,16 @@
 package br.com.arraylist;
 
-public class Aula {
+public class Aula implements  Comparable<Aula> {
 
     private String titulo;
     private int tempo;
 
-    public Aula(String titulo, int tempo){
+    @Override
+    public String toString(){
+        return "[Aula: " + this.titulo + " " + this.tempo + " minutos ";
+    }
 
+    public Aula(String titulo, int tempo){
         this.titulo = titulo;
         this.tempo = tempo;
     }
@@ -16,5 +20,10 @@ public class Aula {
     }
     public int getTempo() {
         return tempo;
+    }
+
+    @Override
+    public int compareTo(Aula outraAula) {
+        return this.titulo.compareTo(outraAula.titulo);
     }
 }
