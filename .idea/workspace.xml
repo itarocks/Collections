@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="0988f819-38a9-438c-b680-a23b4a38523d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CollectionsAlura/br/com/arraylist/TestaListaAula.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CollectionsAlura/br/com/arraylist/TestaListaAula.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CollectionsAlura/br/com/arraylist/Aula.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CollectionsAlura/br/com/arraylist/Aula.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CollectionsAlura/br/com/arraylist/Curso.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CollectionsAlura/br/com/arraylist/Curso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/arraylist/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/arraylist/Aula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/arraylist/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/arraylist/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/arraylist/TestaCurso2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/arraylist/TestaCurso2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,53 +20,65 @@
     <session id="1833145358">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="12" />
+          <entry key="java" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="12" />
+          <entry key="JAVA" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2400" />
+          <entry key="java" value="3114" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2400" />
+          <entry key="JAVA" value="3114" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/arraylist/Curso.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+            <state relative-caret-position="325">
+              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#311#317#0" expanded="true" />
-                <element signature="e#385#398#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-                <element signature="e#275#276#0" expanded="true" />
-                <element signature="e#303#304#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#701#702#0" expanded="true" />
-                <element signature="e#726#727#0" expanded="true" />
+                <element signature="e#373#379#0" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#938#939#0" expanded="true" />
+                <element signature="e#960#961#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/arraylist/Aula.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#595#596#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,9 +88,9 @@
         <entry file="file://$PROJECT_DIR$/src/br/com/arraylist/Professores.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
-                <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#107#108#0" expanded="true" />
                 <element signature="e#134#135#0" expanded="true" />
               </folding>
             </state>
@@ -90,11 +106,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/arraylist/TestaCurso2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <state relative-caret-position="206">
+              <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/com/arraylist/TestaAlunos.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,20 +151,21 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/br/com/arraylist/TestandoListaas.java" />
-        <option value="$PROJECT_DIR$/src/br/com/arraylist/Aula.java" />
         <option value="$PROJECT_DIR$/src/br/com/arraylist/TestaListaAula.java" />
         <option value="$PROJECT_DIR$/src/br/com/arraylist/TesteAriane.java" />
         <option value="$PROJECT_DIR$/src/br/com/arraylist/Professores.java" />
-        <option value="$PROJECT_DIR$/src/br/com/arraylist/Curso.java" />
         <option value="$PROJECT_DIR$/src/br/com/arraylist/TestaCurso.java" />
+        <option value="$PROJECT_DIR$/src/br/com/arraylist/Aula.java" />
         <option value="$PROJECT_DIR$/src/br/com/arraylist/TestaCurso2.java" />
+        <option value="$PROJECT_DIR$/src/br/com/arraylist/Curso.java" />
+        <option value="$PROJECT_DIR$/src/br/com/arraylist/TestaAlunos.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
+    <option name="x" value="402" />
+    <option name="y" value="248" />
+    <option name="width" value="768" />
     <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -142,6 +174,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,11 +198,10 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544359413815" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544574650083" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -184,7 +216,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestaCurso">
+  <component name="RunManager" selected="Application.TestaAlunos">
+    <configuration name="TestaAlunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.arraylist.TestaAlunos" />
+      <module name="CollectionsAlura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.arraylist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestaCurso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.arraylist.TestaCurso" />
       <module name="CollectionsAlura" />
@@ -198,8 +243,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaListaAula" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.arraylist.TestaListaAula" />
+    <configuration name="TestaCurso2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.arraylist.TestaCurso2" />
       <module name="CollectionsAlura" />
       <extension name="coverage">
         <pattern>
@@ -211,8 +256,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestandoListaas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.arraylist.TestandoListaas" />
+    <configuration name="TestaListaAula" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.arraylist.TestaListaAula" />
       <module name="CollectionsAlura" />
       <extension name="coverage">
         <pattern>
@@ -238,17 +283,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestandoListaas" />
       <item itemvalue="Application.TestaListaAula" />
       <item itemvalue="Application.TesteAriane" />
       <item itemvalue="Application.TestaCurso" />
+      <item itemvalue="Application.TestaCurso2" />
+      <item itemvalue="Application.TestaAlunos" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestaAlunos" />
+        <item itemvalue="Application.TestaCurso2" />
         <item itemvalue="Application.TestaCurso" />
         <item itemvalue="Application.TesteAriane" />
         <item itemvalue="Application.TestaListaAula" />
-        <item itemvalue="Application.TestandoListaas" />
       </list>
     </recent_temporary>
   </component>
@@ -269,17 +316,13 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24281392" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24659607" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49924356" weight="0.3295082" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50226927" side_tool="true" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.49848714" weight="0.3295082" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.3289689" />
@@ -287,6 +330,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5030257" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49848714" weight="0.3289689" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
@@ -344,23 +391,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/arraylist/Aula.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-          <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/arraylist/TestaListaAula.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
@@ -391,30 +421,10 @@
     <entry file="file://$PROJECT_DIR$/src/br/com/arraylist/Professores.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
-            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#107#108#0" expanded="true" />
             <element signature="e#134#135#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/arraylist/Curso.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#311#317#0" expanded="true" />
-            <element signature="e#385#398#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
-            <element signature="e#726#727#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -426,10 +436,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/arraylist/Aula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/arraylist/Curso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="e#373#379#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/arraylist/TestaCurso2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="206">
+          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/arraylist/TestaAlunos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
