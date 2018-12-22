@@ -6,7 +6,7 @@ import java.util.Set;
 public class TestaAlunos {
     public static void main(String... args){
         //Collection esta acima na Hierarquia
-        //Set<String> alunos = new HashSet<>();
+        //Collectio<String> alunos = new HashSet<>();
         Set<String> alunos = new HashSet<>();
         alunos.add("Itamar Rocha");
         alunos.add("Pedro Henrique");

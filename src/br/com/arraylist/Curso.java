@@ -13,6 +13,7 @@ public class Curso {
     private String instrutor;
     private List<Aula> aulas = new LinkedList<Aula>();
     private List<Professores> professores = new ArrayList<Professores>();
+    private Set<Aluno> alunos = new HashSet<Aluno>();
 
     public String getNome() {
         return nome;
@@ -39,6 +40,14 @@ public class Curso {
         this.aulas.add(aula);
     }
 
+    public void matriculaAluno(Aluno aluno){
+        this.alunos.add(aluno);
+    }
+
+    public Set<Aluno> getAlunos(){
+        return Collections.unmodifiableSet(alunos);
+    }
+
     public int getTempoTotal(){
         return this.aulas.stream().mapToInt(Aula::getTempo).sum();
     }
@@ -46,5 +55,10 @@ public class Curso {
     public String toString() {
         return "[Curso: " + this.getNome() + ", tempo total: " + this.getTempoTotal()
                 + ", aulas: + " + this.aulas + "]";
+    }
+
+    public boolean estaMatriculado(Aluno aluno)
+    {
+        return this.alunos.contains(aluno);
     }
 }
