@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="0988f819-38a9-438c-b680-a23b4a38523d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CollectionsAlura/br/com/br/com/thread/arquivos/ReadFiles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CollectionsAlura/br/com/br/com/thread/arquivos/ReadFiles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CollectionsAlura/br/com/br/com/thread/arquivos/TarefaBuscaTextual.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CollectionsAlura/br/com/br/com/thread/arquivos/TarefaBuscaTextual.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/br/com/thread/arquivos/ReadFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/br/com/thread/arquivos/ReadFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/br/com/thread/arquivos/TarefaBuscaTextual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/br/com/thread/arquivos/TarefaBuscaTextual.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,58 +19,91 @@
     <session id="1833145358">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.44" value="2" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.44" value="3" />
           <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.59" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.89" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="35" />
+          <entry key="java" value="52" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="35" />
+          <entry key="JAVA" value="52" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4849" />
+          <entry key="java" value="6566" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4849" />
+          <entry key="JAVA" value="6566" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/com/br/com/thread/arquivos/ReadFiles.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/thread1/Lista.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+            <state relative-caret-position="289">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/br/com/thread/arquivos/TarefaBuscaTextual.java">
+        <entry file="file://$PROJECT_DIR$/src/br/com/thread1/ListaPrincipal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+            <state relative-caret-position="187">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/thread1/TarefaAdicionarElemento.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/com/thread1/TarefaImprimir.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/banheiro/Banheiro.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="20" />
+              <folding>
+                <element signature="method#limpa#0;class#Banheiro#0" />
               </folding>
             </state>
           </provider>
@@ -85,6 +122,8 @@
     <findStrings>
       <find>com</find>
       <find>estaMa</find>
+      <find>nome</find>
+      <find>syn</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -113,6 +152,17 @@
         <option value="$PROJECT_DIR$/src/br/com/thread1/ImprimiString.java" />
         <option value="$PROJECT_DIR$/src/br/com/br/com/thread/arquivos/ReadFiles.java" />
         <option value="$PROJECT_DIR$/src/br/com/br/com/thread/arquivos/TarefaBuscaTextual.java" />
+        <option value="$PROJECT_DIR$/src/br/com/br/com/thread/arquivos/PrintNumbers.java" />
+        <option value="$PROJECT_DIR$/src/br/com/br/com/thread/arquivos/PrintRealNumbers.java" />
+        <option value="$PROJECT_DIR$/src/br/com/banheiro/TarefaNumero1.java" />
+        <option value="$PROJECT_DIR$/src/br/com/banheiro/TarefaNumero2.java" />
+        <option value="$PROJECT_DIR$/src/br/com/banheiro/Banheiro.java" />
+        <option value="$PROJECT_DIR$/src/br/com/banheiro/TarefaLimpeza.java" />
+        <option value="$PROJECT_DIR$/src/br/com/banheiro/Principal.java" />
+        <option value="$PROJECT_DIR$/src/br/com/thread1/ListaPrincipal.java" />
+        <option value="$PROJECT_DIR$/src/br/com/thread1/TarefaAdicionarElemento.java" />
+        <option value="$PROJECT_DIR$/src/br/com/thread1/Lista.java" />
+        <option value="$PROJECT_DIR$/src/br/com/thread1/TarefaImprimir.java" />
       </list>
     </option>
   </component>
@@ -128,6 +178,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,27 +203,30 @@
               <item name="CollectionsAlura" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="arquivos" type="462c0819:PsiDirectoryNode" />
+              <item name="thread1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546080300599" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546899022125" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="br.com.br.com.thread.arquivos" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\itama\Documents\CollectionsAlura" />
       <recent name="C:\Users\itama\Documents\CollectionsAlura\src\br\com\thread1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.banheiro" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.thread1" />
+      <recent name="br.com.banheiro" />
+      <recent name="br.com.br.com.thread.arquivos" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -186,7 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReadFiles">
+  <component name="RunManager" selected="Application.ListaPrincipal">
     <configuration name="ImprimiString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.thread1.ImprimiString" />
       <module name="CollectionsAlura" />
@@ -200,12 +255,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.thread1.Principal" />
+    <configuration name="ListaPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.thread1.ListaPrincipal" />
       <module name="CollectionsAlura" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.com.thread1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.banheiro.Principal" />
+      <module name="CollectionsAlura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.banheiro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.br.com.thread.arquivos.PrintNumbers" />
+      <module name="CollectionsAlura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.br.com.thread.arquivos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,46 +307,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TelaCalculador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.thread1.TelaCalculador" />
-      <module name="CollectionsAlura" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.thread1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestaBuscaAlunoCurso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.arraylist.TestaBuscaAlunoCurso" />
-      <module name="CollectionsAlura" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.arraylist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.TestaBuscaAlunoCurso" />
-      <item itemvalue="Application.Principal" />
-      <item itemvalue="Application.TelaCalculador" />
       <item itemvalue="Application.ImprimiString" />
       <item itemvalue="Application.ReadFiles" />
+      <item itemvalue="Application.PrintNumbers" />
+      <item itemvalue="Application.Principal (1)" />
+      <item itemvalue="Application.ListaPrincipal" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListaPrincipal" />
+        <item itemvalue="Application.Principal (1)" />
+        <item itemvalue="Application.PrintNumbers" />
         <item itemvalue="Application.ReadFiles" />
         <item itemvalue="Application.ImprimiString" />
-        <item itemvalue="Application.TelaCalculador" />
-        <item itemvalue="Application.Principal" />
-        <item itemvalue="Application.TestaBuscaAlunoCurso" />
       </list>
     </recent_temporary>
   </component>
@@ -283,10 +338,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20045386" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -313,6 +368,34 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.24962178" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20045386" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5030257" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49848714" weight="0.3289689" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24962178" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -327,6 +410,12 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/br/com/banheiro/Banheiro.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -438,26 +527,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/arraylist/Aula.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_172/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -527,20 +601,114 @@
     <entry file="file://$PROJECT_DIR$/assinaturas1.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/br/com/thread/arquivos/ReadFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/br/com/thread/arquivos/PrintNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/br/com/thread/arquivos/PrintRealNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/br/com/thread/arquivos/TarefaBuscaTextual.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        <state relative-caret-position="408">
+          <caret line="26" column="66" selection-start-line="26" selection-start-column="66" selection-end-line="26" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/br/com/thread/arquivos/ReadFiles.java">
+    <entry file="file://$PROJECT_DIR$/src/br/com/banheiro/TarefaNumero1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        <state relative-caret-position="204">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/banheiro/TarefaNumero2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/banheiro/TarefaLimpeza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/banheiro/Principal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="11" column="97" selection-start-line="11" selection-start-column="97" selection-end-line="11" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/banheiro/Banheiro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="method#limpa#0;class#Banheiro#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/thread1/TarefaAdicionarElemento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/thread1/Lista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/thread1/ListaPrincipal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/thread1/TarefaImprimir.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

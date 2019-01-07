@@ -24,7 +24,7 @@ public class TarefaBuscaTextual implements Runnable {
 
             while(scanner.hasNextLine()){
                 String linha = scanner.nextLine();
-                if(linha.contains(nome)){
+                if(linha.toLowerCase().contains(nome.toLowerCase())){
                     System.out.println(nomeArquivo + " - " + numeroLinha
                             + " - " + linha);
                 }
